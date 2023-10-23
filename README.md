@@ -18,7 +18,9 @@ The project is deployed and can be accessed at [deploed link](https://town-talk-
 
 #Mobile
 <p align="center">
-![Screenshot (274)](https://github.com/MJaved9/Assignment-webledger/assets/101566706/27634fc5-5a2c-4f4e-a1aa-900ddc3367d1)
+Mobile view
+
+![Screenshot (274)](https://github.com/MJaved9/Assignment-webledger/assets/101566706/9f7f2c2a-b4b1-461c-a057-0becefbf5ca3)
 
 
 </p>
